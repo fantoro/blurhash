@@ -1,5 +1,6 @@
 #include "encode.h"
 
+#incldue <stdbool.h>
 #include <string.h>
 #include <math.h>
 #include <ruby.h>
